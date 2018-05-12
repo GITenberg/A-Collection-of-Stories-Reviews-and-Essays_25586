@@ -1,0 +1,41 @@
+_repo: A-Collection-of-Stories-Reviews-and-Essays_25586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Catherova, Willa
+    - Cather, Willa Sibert
+    - Cather, Wilella
+    - Catherová, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: Willa Sibert Cather (1873-1947) was an eminent American author. She spent
+  her childhood in Red Cloud, Nebraska, the same town that has been made famous by
+  her writing. She insisted on attending college, so her family borrowed money so
+  she could enroll at the University of Nebraska-Lincoln. While there, she became
+  a regular contributor to the Nebraska State Journal. She then moved to Pittsburgh,
+  where she taught high school English and worked for Home Monthly, and eventually
+  got a job offer from McClure's Magazine in New York City. Later, she became the
+  managing editor in 1908. The.
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+title: A Collection of Stories, Reviews and Essays
+url: http://www.gutenberg.org/ebooks/25586
